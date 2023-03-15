@@ -1,6 +1,6 @@
 # Internship-Logbook-Neksjojb
 
-## Friday, February 01, 2023, 
+## Friday, February 02, 2023, 
 
 On my first day as a web dev intern, I met the other interns and started familiarizing myself with the work environment. I was assigned a workstation, but unfortunately, no tasks were given to me yet. Instead, I was instructed to study Laravel, a popular PHP framework used for building web applications. I spent the day reading documentation and online tutorials to familiarize myself with the framework and its features. Overall, it was a productive day despite not having any hands-on tasks.
 
