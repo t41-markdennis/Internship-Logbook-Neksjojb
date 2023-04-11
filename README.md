@@ -138,3 +138,7 @@ These updates will improve the overall user experience on our platform, making i
 ## Tuesday, March 14, 2023
 
 Today, I found myself with nothing to do since my supervisor was unavailable, and he did not respond to my queries. Instead of waiting around, I decided to work on updating my portfolio design and contents to make it more presentable and professional. I took the opportunity to study and research ways to improve my project, looking for new ideas and techniques that I could implement. By doing so, I not only kept myself productive but also learned new skills that I could apply in my work. This experience taught me the value of using downtime productively and taking responsibility for my own learning and development.
+
+## Tuesday, April 11, 2023
+
+I spent time studying the Axios library. I learned about how to make HTTP requests using Axios, including sending data in the request body and handling responses. I also practiced working with Promises and learned about the benefits of using Axios in my web development projects.
