@@ -133,11 +133,49 @@ These updates will improve the communication process between employers and job s
 
 I updated the applicants' applications route in our backend. This update ensures that job seekers can easily manage their job applications. The new applications route provides users with a more streamlined and user-friendly interface for managing their job applications.
 
-These updates will improve the overall user experience on our platform, making it more efficient and reliable. It will also make it easier for job seekers to manage their job applications, increasing their engagement with our platform.
-
 ## Tuesday, March 14, 2023
 
-Today, I found myself with nothing to do since my supervisor was unavailable, and he did not respond to my queries. Instead of waiting around, I decided to work on updating my portfolio design and contents to make it more presentable and professional. I took the opportunity to study and research ways to improve my project, looking for new ideas and techniques that I could implement. By doing so, I not only kept myself productive but also learned new skills that I could apply in my work. This experience taught me the value of using downtime productively and taking responsibility for my own learning and development.
+Today, I found myself with nothing to do. I decided to work on updating my portfolio design and contents to make it more presentable and professional.
+
+## Wednesday, March 15, 2023
+
+Today, I worked on improving the Laravel API by separating model scopes. I also made necessary modifications to the existing code to call these new scopes wherever required.
+
+## Thursday, March 16, 2023
+
+Continuing from where I left off yesterday, I work on separating model scopes in the Laravel API. Today, my focus was on testing the code to ensure that the new scopes were working as expected. I also spent time debugging and fixing issues that I found during testing. Overall, I'm happy with the results and feel that the code is now more organized and efficient.
+
+## Friday, March 17, 2023
+
+I worked on adding a new feature: a queue notification system. This involved creating a new notification controller and routes, as well as adding a notification migration to the database. The new notification system will allow users to receive real-time updates about job postings and their job applications.
+
+## Monday, March 20, 2023
+
+Today, I continued working on the queue notification system. Specifically, I spent time fine-tuning the notification controller and routes, and I'm happy with the results.
+
+## Tuesday, March 21, 2023
+
+I worked on adding a new feature: employers and applicants are now accessible for all user_types. To achieve this, I updated the existing authentication and authorization logic and added new routes and controllers to handle the requests from different user types.
+
+## Wednesday, March 22, 2023
+
+Today, I worked on cleaning up the Employer/JobController code. I made the line shorter and readable.
+
+## Thursday, March 23, 2023
+
+I modified the code to prevent updates to fields that were null, and added appropriate validation when duplicate email entries were detected. Additionally, I removed magic strings from the code by adding constants to improve readability.
+
+## Monday, April 03, 2023
+
+Today, I worked on refactoring the utils JobPositions. Specifically, I modified the code to make the methods static and removed unnecessary code to improve performance and readability.
+
+## Tuesday, April 04, 2023
+
+Continuing from where I left off yesterday, I added a new feature to allow applicants to register in the application. This involved creating a new controller and routes.
+
+Wednesday, April 05, 2023
+
+Today, I worked on adding email verification to the Laravel API using its built-in features. This involved adding routes and controller to send verification emails and to verify user accounts upon confirmation. The application is now more secure thanks to the addition of email verification.
 
 ## Tuesday, April 11, 2023
 
