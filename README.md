@@ -180,3 +180,9 @@ Today, I worked on adding email verification to the Laravel API using its built-
 ## Tuesday, April 11, 2023
 
 I spent time studying the Axios library. I learned about how to make HTTP requests using Axios, including sending data in the request body and handling responses. I also practiced working with Promises and learned about the benefits of using Axios in my web development projects.
+
+## Wednesday, April 12, 2023
+
+## Thursday, April 13, 2023
+
+## Friday, April 14, 2023
